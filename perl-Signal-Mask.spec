@@ -7,7 +7,7 @@
 Summary:	Signal::Mask - Signal masks made easy
 Name:		perl-Signal-Mask
 Version:	0.008
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
