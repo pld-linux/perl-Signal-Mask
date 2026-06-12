@@ -6,13 +6,13 @@
 %define		pnam	Mask
 Summary:	Signal::Mask - Signal masks made easy
 Name:		perl-Signal-Mask
-Version:	0.008
-Release:	3
+Version:	0.009
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Signal/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1cd1832d50e76931b69db3452e728c64
+# Source0-md5:	a9afa9cc63a5d63fa6f27c3abe4335f1
 URL:		https://metacpan.org/release/Signal-Mask
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
